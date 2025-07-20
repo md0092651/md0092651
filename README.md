@@ -38,7 +38,6 @@ Experienced in building scalable Android applications for leading MNC clients ac
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md0092651&show_icons=true&count_private=true&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md0092651&theme=github-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md0092651&layout=compact&theme=github_dark)
 
 ---
 
