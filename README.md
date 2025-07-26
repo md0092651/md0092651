@@ -11,8 +11,6 @@ Experienced in building scalable Android applications for leading MNC clients ac
 - 📍 Based in **London, UK**
 - 📫 Reach me at: [mithilesh1dhupia@gmail.com](mailto:mithilesh1dhupia@gmail.com)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/mithilesh1dhupia/)
-- 🚀 Working on: [Cool Weather App](http://play.google.com/store/apps/details?id=com.phomotech.weatherapp.paid)
-- 📱 Learning: iOS Development
 
 ---
 
