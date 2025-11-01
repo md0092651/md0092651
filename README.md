@@ -51,11 +51,7 @@ Experienced in building scalable Android applications for leading MNC clients ac
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/md0092651)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1201601/mrx)
 
----
 
-### ☕ Support Me
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/mithilesh1o)
 
 ---
 
