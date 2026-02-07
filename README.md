@@ -11,6 +11,7 @@ Experienced in building scalable Android applications for leading MNC clients ac
 - 📍 Based in **London, UK**
 - 📫 Reach me at: [mithilesh1dhupia@gmail.com](mailto:mithilesh1dhupia@gmail.com)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/mithilesh1dhupia/)
+- <img src="https://img.shields.io/github/followers/Trojan3877?style=for-the-badge" /> <img src="https://img.shields.io/github/stars/Trojan3877?style=for-the-badge" />
 
 ---
 
