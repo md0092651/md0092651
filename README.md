@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/md0092651">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Kotlin+%26+Compose;launch+%7B+ship(sideProject)+%7D;Founder+%40+Phomotech+%26+CoroutineLab;Powered+by+coffee+%E2%98%95+and+memes" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Kotlin+%26+Compose;launch+%7B+ship(sideProject)+%7D;Powered+by+coffee+%E2%98%95+and+memes" alt="typing" />
   </a>
 </p>
 
