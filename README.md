@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/md0092651">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Kotlin+%26+Compose;launch+%7B+ship(sideProject)+%7D;Powered+by+coffee+%E2%98%95+and+memes" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Kotlin+%26+Compose;launch+%7B+ship(sideProject)+%7D;Founder+%40+Phomotech+%26+CoroutineLab;Powered+by+coffee+%E2%98%95+and+memes" alt="typing" />
   </a>
 </p>
 
@@ -40,11 +40,17 @@ object Mithilesh : AndroidDeveloper() {
 
 | | Project | What it is |
 |:-:|---|---|
-| 🌦️ | **Skyribbon** | Live radar, storm alerts, hourly & 10-day forecasts, widgets and an AI weather assistant — [on Google Play]([https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise])) |
-| 👶 | **NurtureLog** | A baby tracker built from real new-parent experience: mixed feeding, nappy alerts, vaccination schedules and multi-carer sync |
-| 🛡️ | **AppShield** | An open-source, RASP-style security SDK for Android — a learning project on root/tamper/debugger detection |
+| 🌦️ | **[SkyRibbon](https://skyribbonweather.app/)** | Weather reimagined as a continuous ribbon of time — live radar, storm alerts, hourly & 10-day forecasts, widgets and an AI weather assistant |
 | 🐱 | **Focus Cat** | A minimal, dark-only focus app that keeps you off your phone |
+| 👶 | **[NurtureLog](https://nuturelog.web.app/)** | A baby tracker built from real new-parent experience: mixed feeding, nappy alerts, vaccination schedules and multi-carer sync |
+| 🛡️ | **AppShield** | An open-source, RASP-style security SDK for Android — a learning project on root/tamper/debugger detection |
 | 🌍 | **Daily Geo Game** | A Wordle-style daily geography game — drop a pin, unlock the story |
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise"><img src="https://img.shields.io/badge/SkyRibbon-Get%20it%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="SkyRibbon on Google Play" /></a>
+  <a href="https://skyribbonweather.app/"><img src="https://img.shields.io/badge/SkyRibbon-Website-073042?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SkyRibbon website" /></a>
+  <a href="https://nuturelog.web.app/"><img src="https://img.shields.io/badge/NurtureLog-Website-073042?style=for-the-badge&logo=firebase&logoColor=white" alt="NurtureLog website" /></a>
+</p>
 
 ### 🛠️ Tech I work with
 
@@ -80,7 +86,7 @@ object Mithilesh : AndroidDeveloper() {
 
 <p align="center">
   <a href="mailto:phomotech@gmail.com"><img src="https://img.shields.io/badge/Email-Phomotech-3DDC84?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://play.google.com/store/search?q=Phomotech&c=apps"><img src="https://img.shields.io/badge/Google%20Play-My%20Apps-073042?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise"><img src="https://img.shields.io/badge/Google%20Play-SkyRibbon-073042?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-Android%20Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
