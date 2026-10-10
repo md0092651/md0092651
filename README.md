@@ -40,7 +40,7 @@ object Mithilesh : AndroidDeveloper() {
 
 | | Project | What it is |
 |:-:|---|---|
-| 🌦️ | **Skyribbon** | Live radar, storm alerts, hourly & 10-day forecasts, widgets and an AI weather assistant — [on Google Play]([https://play.google.com/store/search?q=Weather%20Radar%20%26%20Daily%20Forecast&c=apps](https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise)) |
+| 🌦️ | **Skyribbon** | Live radar, storm alerts, hourly & 10-day forecasts, widgets and an AI weather assistant — [on Google Play]([https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise])) |
 | 👶 | **NurtureLog** | A baby tracker built from real new-parent experience: mixed feeding, nappy alerts, vaccination schedules and multi-carer sync |
 | 🛡️ | **AppShield** | An open-source, RASP-style security SDK for Android — a learning project on root/tamper/debugger detection |
 | 🐱 | **Focus Cat** | A minimal, dark-only focus app that keeps you off your phone |
