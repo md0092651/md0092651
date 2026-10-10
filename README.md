@@ -48,6 +48,7 @@ object Mithilesh : AndroidDeveloper() {
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.coroutinelab.weatherwise"><img src="https://img.shields.io/badge/SkyRibbon-Get%20it%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="SkyRibbon on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.coroutinelab.focusgate"><img src="https://img.shields.io/badge/SkyRibbon-Get%20it%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="FocusGate on Google Play" /></a>
   <a href="https://skyribbonweather.app/"><img src="https://img.shields.io/badge/SkyRibbon-Website-073042?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SkyRibbon website" /></a>
   <a href="https://nuturelog.web.app/"><img src="https://img.shields.io/badge/NurtureLog-Website-073042?style=for-the-badge&logo=firebase&logoColor=white" alt="NurtureLog website" /></a>
 </p>
